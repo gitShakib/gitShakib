@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Shakib
 #### A passionate front-end developer from Bangladesh.
-<hr>
 I am a front-end web developer with experience building websites and web applications. I specialize in JavaScript and have professional experience working with React And Node js. I also have experience working with vue.
 <hr>
 Skills: <h3>👨‍🎓 Skills & Experiance: </h3>   1️⃣React Js </br>2️⃣JavaScript<br/>3️⃣ Node</br>4️⃣Express<br/>5️⃣Mongodb</br>6️⃣HTML5 / CSS3 / SASS / Bootstrap / tailwindcss / Material7️<br/>

@@ -20,8 +20,8 @@ I am a front-end web developer with experience building websites and web applica
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gitShakib)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitShakib)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=gitShakib)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitShakib)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gitShakib&show_icons=true)  
